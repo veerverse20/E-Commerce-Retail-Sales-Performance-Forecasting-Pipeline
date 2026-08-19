@@ -5,7 +5,7 @@ An end-to-end data analytics and forecasting solution that ingests raw retail tr
 
 ---
 
-## 📌 Business Overview & Objective
+## 📌 Business Overview & Objective 
 
 In competitive retail environments, analyzing historical performance alone is insufficient for operational efficiency. E-commerce leadership needs clarity on both past trends and future revenue streams to optimize inventory, streamline marketing campaigns, and allocate regional budgets.
 
