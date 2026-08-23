@@ -1,4 +1,4 @@
-  
+   
 # 📊 E-Commerce Sales Performance & Forecasting Pipeline 
  
 An end-to-end data analytics and forecasting solution that ingests raw retail transactional data, performs data cleaning and transformation using SQL, executes Python-based time-series revenue forecasting, and delivers executive-ready business insights through an interactive Power BI dashboard.
