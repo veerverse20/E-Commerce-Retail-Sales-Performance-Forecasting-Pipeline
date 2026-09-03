@@ -65,7 +65,7 @@ E-Commerce Retail Sales Performance & Forecasting Pipeline/
 
 ## 🧮 DAX Calculations Reference
 
-Below are key DAX formulas utilized in the Power BI model:
+Below are key DAX formulas utilized in the Power BI model:  
 
 #### 1. Dynamic Regional Grouping Column
 
