@@ -103,7 +103,7 @@ Ensure you have the following installed on your machine:
 ```bash
 git clone [https://github.com/veerverse20/E-Commerce-Retail-Sales-Performance-Forecasting-Pipeline.git](https://github.com/veerverse20/E-Commerce-Retail-Sales-Performance-Forecasting-Pipeline.git)
 cd "E-Commerce Retail Sales Performance & Forecasting Pipeline"
-
+   
 ```
 
 ### 3. Run the Python Notebook
