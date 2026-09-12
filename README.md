@@ -11,7 +11,7 @@ In competitive retail environments, analyzing historical performance alone is in
 
 This project delivers:  
 * **Historical Metric Tracking**: Real-time aggregation of Revenue, Orders, Items Sold, and Average Order Value (AOV).
-* **Predictive Revenue Modeling**: A 3-month forward-looking forecasting model using Python time-series analysis.
+* **Predictive Revenue Modeling**: A 3-month forward-looking forecasting model using Python time-series analysis  
 * **Geographical & Temporal Segmentation**: Deep dives into regional market contribution and sales patterns by day of the week.
 
 ---
