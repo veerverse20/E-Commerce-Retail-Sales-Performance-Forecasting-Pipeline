@@ -16,7 +16,7 @@ This project delivers:
 
 ---
 
-## 🏗️ Repository Architecture
+## 🏗️ Repository Architecture     
 
 ```text
 E-Commerce Retail Sales Performance & Forecasting Pipeline/
