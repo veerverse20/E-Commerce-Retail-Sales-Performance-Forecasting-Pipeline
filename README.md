@@ -26,7 +26,7 @@ E-Commerce Retail Sales Performance & Forecasting Pipeline/
 ├── Notebooks/      # Jupyter notebooks for data cleaning, EDA, & time-series forecasting
 ├── SQL/            # SQL scripts for data extraction, transformations, & aggregations
 └── README.md       # Project documentation & execution guide
-
+   
 ```
 
 ---
