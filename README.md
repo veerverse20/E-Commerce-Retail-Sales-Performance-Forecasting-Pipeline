@@ -14,7 +14,7 @@ This project delivers:
 * **Predictive Revenue Modeling**: A 3-month forward-looking forecasting model using Python time-series analysis  
 * **Geographical & Temporal Segmentation**: Deep dives into regional market contribution and sales patterns by day of the week.
 
----
+--- 
 
 ## 🏗️ Repository Architecture     
 
