@@ -63,7 +63,7 @@ E-Commerce Retail Sales Performance & Forecasting Pipeline/
 
 ---
 
-## 🧮 DAX Calculations Reference  
+## 🧮 DAX Calculations Reference    
 
 Below are key DAX formulas utilized in the Power BI model:  
 
