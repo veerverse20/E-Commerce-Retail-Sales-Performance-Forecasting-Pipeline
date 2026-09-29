@@ -106,7 +106,7 @@ cd "E-Commerce Retail Sales Performance & Forecasting Pipeline"
    
 ```
 
-### 3. Run the Python Notebook
+### 3. Run the Python Notebook 
 
 Navigate to the `Notebooks/` directory and execute the analysis notebook to perform data processing and generate model forecasts:
 
