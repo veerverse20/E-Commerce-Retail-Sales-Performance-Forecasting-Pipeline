@@ -5,7 +5,7 @@ An end-to-end data analytics and forecasting solution that ingests raw retail tr
 
 ---  
 
-## 📌 Business Overview & Objective 
+## 📌 Business Overview & Objective  
 
 In competitive retail environments, analyzing historical performance alone is insufficient for operational efficiency. E-commerce leadership needs clarity on both past trends and future revenue streams to optimize inventory, streamline marketing campaigns, and allocate regional budgets.
 
@@ -57,7 +57,7 @@ E-Commerce Retail Sales Performance & Forecasting Pipeline/
 
 * Implements dynamic DAX grouping to identify top revenue-contributing markets (**United Kingdom, Netherlands, EIRE, Germany, France**) while consolidating long-tail international sales into an **Others** segment for clean reporting.
 
-### 4. Operational Day-of-Week Revenue Analysis
+### 4. Operational Day-of-Week Revenue Analysis 
 
 * Evaluates weekly purchasing behavior to help marketing teams time promotional pushes on peak buyer days.
 
